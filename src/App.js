@@ -1,6 +1,4 @@
-import axios from 'axios';
 import React, { useState } from 'react';
-import { Sunny, Cloudy, Rain, Snow } from 'weather-styled-icon';
 
 const api = {
   key: "be750803d2c81c8631fb0f967928220d",
@@ -120,6 +118,7 @@ function App() {
             <p>Sunny</p>
             </div>
             
+
 
            
            
